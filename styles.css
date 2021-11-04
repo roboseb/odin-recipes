@@ -1,0 +1,27 @@
+body{
+    font-family:Arial ,sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #b2faff;
+    background-color: coral;
+
+    -webkit-text-stroke: 1px black;
+}
+
+h1{
+    font-size: 40px;
+    text-shadow: 3px 3px black;    
+}
+
+h2{
+    font-size: 30px;
+    text-shadow: 2px 2px black;    
+}
+
+img{
+    max-height: 300px;
+    width: auto;
+    border: 20px solid #00afaf;
+
+}
